@@ -26,12 +26,13 @@ from .lib.internal.rpc_thread import RpcThread
 from .lib.internal.io import ListWriter, open_read, open_write
 from .lib.internal.csv_reader import UnicodeReader, UnicodeWriter
 from .lib.internal.tools import batch
+from xmlrpc.client import Fault
 
-if sys.version_info >= (3, 0, 0):
-    from xmlrpc.client import Fault
-else:
-    from xmlrpclib import Fault
-    from builtins import range
+# if sys.version_info >= (3, 0, 0):
+#     from xmlrpc.client import Fault
+# else:
+#     from xmlrpclib import Fault
+#     from builtins import range
 
 csv.field_size_limit(2**31-1)
 
@@ -178,7 +179,7 @@ def do_not_split(split, previous_split_value, split_index, line, o2m=False, id_i
 
     return True
 
-
+# encoding='utf-8'
 def import_data(config_file, model, header=None, data=None, file_csv=None, context=None, fail_file=False,
                 encoding='utf-8', separator=";", ignore=False, split=False, check=True, max_connection=1,
                 batch_size=10, skip=0, o2m=False):

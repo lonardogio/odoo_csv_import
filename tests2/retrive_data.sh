@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# $1 python3 ../odoo_export_thread.py -c conf/connection.conf --file=data/hr.department.exported.csv --model=hr.department --worker=1 --size=200 --domain="[]" --field="" --sep=";" --encoding=utf-8-sig
+$1 python3 ../odoo_export_thread.py -c conf/connection.conf --file=hr.department.exported.csv --model=hr.department --worker=1 --size=200 --domain="[]" --field="codice,manager_id,name" --sep=";" --encoding=utf-8-sig

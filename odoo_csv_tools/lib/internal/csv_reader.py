@@ -6,10 +6,11 @@ Created on 16 mai 2014
 from __future__ import absolute_import
 import sys
 #import csv, codecs
-if sys.version_info >= (3, 0, 0):
-    import csv
-else:
-    import unicodecsv as csv
+# if sys.version_info >= (3, 0, 0):
+#     import csv
+# else:
+#     import unicodecsv as csv
+import csv
 from io import StringIO
 import threading
 
