@@ -71,6 +71,7 @@ class RPCThreadExport(RpcThread):
 
 def export_data(config_file, model, domain, header, context=None, output=None, max_connection=1, batch_size=100,
                 separator=';', encoding='utf-8'):
+    """:param header: slit od field argument input"""
     object_registry = conf_lib.get_server_connection(config_file).get_model(model)
 
     if output:

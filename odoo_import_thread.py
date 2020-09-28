@@ -35,7 +35,7 @@ if __name__ == '__main__':
     parser.add_argument('--context', dest='context', help='context that will be passed to the load function, need to be a valid python dict', default="{'tracking_disable' : True}")
     parser.add_argument('--o2m', action='store_true', dest="o2m", help="When you want to import o2m field, don't cut the batch until we find a new id")
     # parser.add_argument('--encoding', dest='encoding', default="utf-8", help='Encoding of the data file')
-    parser.add_argument('--encoding', dest='encoding', default="utf-8-sig", help='Encoding of the data file')
+    parser.add_argument('--encoding', dest='encoding', default="utf-8-sig", help='Encoding of the data file') # default: utf-8-
     #TODO args : encoding
     #{'update_many2many': True,'tracking_disable' : True, 'create_product_variant' : True, 'check_move_validity' : False}
     args = parser.parse_args()

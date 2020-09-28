@@ -31,6 +31,7 @@ class JsonRpcOperation:
 
     def _authentication_op(self, odoo_model, op):
         """
+            jsonrpc authentication
             :param odoo_model : odoo model for which authentication is assessed
             :param op : operation for which authentication is assessed (create, write, unlink)
             :return res['result'] : it says if the authentication was successful for a certain operation
@@ -46,7 +47,7 @@ class JsonRpcOperation:
             payload = self._get_json_payload("object", "execute_kw", self.db_name, user_id, self.password,
                                              odoo_model, 'check_access_rights', [op])
             res = requests.post(json_endpoint, data=payload, headers=headers).json()
-            print("Has create access:", res['result'])
+            print("Has " + str(op) + " access:" + res['result'])
         return res['result']
 
     def _get_json_payload(self, service, method, *args, **kwargs):
@@ -61,4 +62,3 @@ class JsonRpcOperation:
             },
             "id": random.randint(0, 1000000000),
         })
-    # jsonrpc authentication

@@ -1,3 +1,16 @@
 #!/usr/bin/env bash
-# $1 python3 ../odoo_import_thread.py --file=origin/res.partner_o2m.csv --model='res.partner' --size=1 --worker=1 --conf=conf/connection.conf --o2m
-$1 python3 ../odoo_import_thread.py --file=hr.department.csv --model='hr.department' --size=1 --worker=1 --conf=conf/connection.conf --o2m
+
+# python3 ../odoo_import_thread.py --file=tosend/purchase.order.csv --model='purchase.order' --size=1 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/purchase.order.line.csv --model='purchase.order.line' --size=200 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/purchase.order.line_test1.csv --model='purchase.order.line' --size=200 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.order.csv --model='sale.order' --size=200 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.order_update.csv --model='sale.order' --size=200 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.blanket.order.line.csv --model='sale.blanket.order.line' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.order.line1.csv --model='sale.order.line' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.order.line2.csv --model='sale.order.line' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/sale.order.line1_fail.csv --model='sale.order.line' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/repair.order.csv --model='repair.order' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/repair.line.csv --model='repair.line' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/account.move.csv --model='account.move' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+# python3 ../odoo_import_thread.py --file=tosend/account.move.csv.fail --model='account.move' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"
+python3 ../odoo_import_thread.py --file=tosend/account.full.reconcile.csv --model='account.full.reconcile' --size=100 --worker=1 --conf=conf/connection.conf --sep=";"

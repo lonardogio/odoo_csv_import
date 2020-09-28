@@ -27,9 +27,9 @@ do
   echo "> Import Product v10"
   $EXEC test_product_v10.py "$EXEC"
   sh 4_product_import.sh
-  sh retrive_data.sh "$EXEC"
+  sh 5_partner_export.sh "$EXEC"
   echo "> Import One2Many"
-  sh load_data.sh "$EXEC"
+  sh 6_o2m_import.sh "$EXEC"
   echo "> Convert Binary"
   sh 7_convert_binary.sh "$EXEC"
   echo "Test join"

@@ -1,0 +1,3 @@
+﻿"id","name","picking_type_id:id","date_order","partner_id:id","fiscal_position_id:id","user_id:id","payment_term_id:id","date_approve","state","invoice_status","limit_amount"
+"__export__.purchase_order_1672_03b95df5","PO00728","stock.picking_type_in","2020-05-09 11:00:38","__export__.res_partner_7467","l10n_it.1_it","base.user_root","__export__.account_payment_term_70","","rdp","no","0"
+"__export__.purchase_order_1670_a2261c57","PO00726","stock.picking_type_in","2020-05-09 11:00:37","__export__.res_partner_15122_634a79da","","base.user_root","__export__.account_payment_term_70","","rdp","to invoice","0"
