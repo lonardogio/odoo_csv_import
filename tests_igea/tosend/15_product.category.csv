@@ -1,0 +1,15 @@
+id;name;parent_id/id;property_account_income_categ_id/id;property_account_expense_categ_id/id
+product.product_category_all;Tutto;0;l10n_it.1_3101;l10n_it.1_4101
+product.cat_expense;Spese;product.product_category_all;l10n_it.1_3101;l10n_it.1_4101
+product.product_category_1;Vendibile;product.product_category_all;l10n_it.1_3101;l10n_it.1_4101
+sync_ricette_ds_puglia.ric_ds_category;FATT RIC_DS;0;l10n_it.1_3101;l10n_it.1_4101
+sync_ricette_spec_puglia.ric_spec_category;FATT RIC_SPEC;0;l10n_it.1_3101;l10n_it.1_4101
+sync_drug.drug_category;Farmaci;0;l10n_it.1_3101;l10n_it.1_4101
+sync_drug.material_category;Materiali;0;l10n_it.1_3101;l10n_it.1_4101
+sync_diagnosi.procedure_category;Procedure;0;l10n_it.1_3101;l10n_it.1_4101
+sync_drug.prosthesis_category;Protesi;0;l10n_it.1_3101;l10n_it.1_4101
+sync_product.zapa_category;ZAPA;0;l10n_it.1_3101;l10n_it.1_4101
+__export__.product_category_13_19fbab38;ZDS;0;__export__.account_account_945_efd44246;0
+sync_product.zext_category;ZEXT;0;0;0
+sync_product.zpre_category;ZPRE;0;__export__.account_account_945_efd44246;0
+__export__.product_category_14_3a5486f2;ZREP;0;l10n_it.1_3101;l10n_it.1_4101

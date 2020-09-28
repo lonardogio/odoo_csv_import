@@ -1,0 +1,254 @@
+id;name;code;reconcile;user_type_id/id
+l10n_it.1_1101;costi di impianto ;110100;1;account.data_account_type_current_assets
+l10n_it.1_1106;software ;110600;1;account.data_account_type_current_assets
+l10n_it.1_1108;avviamento ;110800;1;account.data_account_type_current_assets
+l10n_it.1_1111;fondo ammortamento costi di impianto ;111100;1;account.data_account_type_current_assets
+l10n_it.1_1116;fondo ammortamento software ;111600;1;account.data_account_type_current_assets
+l10n_it.1_1118;fondo ammortamento avviamento ;111800;1;account.data_account_type_current_assets
+l10n_it.1_1201;fabbricati ;120100;1;account.data_account_type_current_assets
+l10n_it.1_1202;impianti e macchinari ;120200;1;account.data_account_type_current_assets
+l10n_it.1_1204;attrezzature commerciali ;120400;1;account.data_account_type_current_assets
+l10n_it.1_1205;macchine d'ufficio ;120500;1;account.data_account_type_current_assets
+l10n_it.1_1206;arredamento ;120600;1;account.data_account_type_current_assets
+l10n_it.1_1207;automezzi ;120700;1;account.data_account_type_current_assets
+l10n_it.1_1208;imballaggi durevoli ;120800;1;account.data_account_type_current_assets
+l10n_it.1_1211;fondo ammortamento fabbricati ;121100;1;account.data_account_type_current_assets
+l10n_it.1_1212;fondo ammortamento impianti e macchinari ;121200;1;account.data_account_type_current_assets
+l10n_it.1_1214;fondo ammortamento attrezzature commerciali ;121400;1;account.data_account_type_current_assets
+l10n_it.1_1215;fondo ammortamento macchine d'ufficio ;121500;1;account.data_account_type_current_assets
+l10n_it.1_1216;fondo ammortamento arredamento ;121600;1;account.data_account_type_current_assets
+l10n_it.1_1217;fondo ammortamento automezzi ;121700;1;account.data_account_type_current_assets
+l10n_it.1_1218;fondo ammortamento imballaggi durevoli ;121800;1;account.data_account_type_current_assets
+l10n_it.1_1220;fornitori immobilizzazioni c/acconti ;122000;1;account.data_account_type_current_assets
+__export__.account_account_1090_1c801a40;Cassa Centrale;13002564;0;account.data_account_type_liquidity
+l10n_it.1_1301;mutui attivi ;130100;1;account.data_account_type_current_assets
+__export__.account_account_1080_efee50fd;Cassa 01;13440902;0;account.data_account_type_liquidity
+__export__.account_account_1082_3b32a300;Cassa 03;13440904;0;account.data_account_type_liquidity
+__export__.account_account_1083_aebde94b;Cassa 04;13440905;0;account.data_account_type_liquidity
+__export__.account_account_1084_bc9e3174;Cassa 05;13440906;0;account.data_account_type_liquidity
+__export__.account_account_1085_893574e7;Cassa 06;13440907;0;account.data_account_type_liquidity
+__export__.account_account_1086_21f0970b;Cassa 07;13440908;0;account.data_account_type_liquidity
+__export__.account_account_1087_3f1af79d;Cassa 08;13440909;0;account.data_account_type_liquidity
+__export__.account_account_1088_5afd1911;Cassa 09;13440910;0;account.data_account_type_liquidity
+__export__.account_account_1089_8c9a64e3;Cassa 10;13440911;0;account.data_account_type_liquidity
+__export__.account_account_1081_5a292e9d;Cassa 02;13440912;0;account.data_account_type_liquidity
+l10n_it.1_1401;materie di consumo ;140100;1;account.data_account_type_current_assets
+l10n_it.1_1404;merci ;140400;1;account.data_account_type_current_assets
+l10n_it.1_1410;fornitori c/acconti ;141000;1;account.data_account_type_current_assets
+l10n_it.1_1501;crediti v/clienti ;150100;1;account.data_account_type_receivable
+l10n_it.1_1502;crediti commerciali diversi ;150200;1;account.data_account_type_current_assets
+l10n_it.1_1503;clienti c/spese anticipate ;150300;1;account.data_account_type_current_assets
+l10n_it.1_1505;cambiali attive ;150500;1;account.data_account_type_current_assets
+l10n_it.1_1506;cambiali allo sconto ;150600;1;account.data_account_type_current_assets
+l10n_it.1_1507;cambiali all'incasso ;150700;1;account.data_account_type_current_assets
+l10n_it.1_1509;fatture da emettere ;150900;1;account.data_account_type_current_assets
+l10n_it.1_1510;crediti insoluti ;151000;1;account.data_account_type_current_assets
+l10n_it.1_1511;cambiali insolute ;151100;1;account.data_account_type_current_assets
+l10n_it.1_1531;crediti da liquidare ;153100;1;account.data_account_type_current_assets
+l10n_it.1_1540;fondo svalutazione crediti ;154000;1;account.data_account_type_current_assets
+l10n_it.1_1541;fondo rischi su crediti ;154100;1;account.data_account_type_current_assets
+l10n_it.1_1601;IVA n/credito ;160100;1;account.data_account_type_current_assets
+l10n_it.1_1602;IVA c/acconto ;160200;1;account.data_account_type_current_assets
+l10n_it.1_1605;crediti per IVA ;160500;1;account.data_account_type_current_assets
+l10n_it.1_1607;imposte c/acconto ;160700;1;account.data_account_type_current_assets
+l10n_it.1_1608;crediti per imposte ;160800;1;account.data_account_type_current_assets
+l10n_it.1_1609;crediti per ritenute subite ;160900;1;account.data_account_type_current_assets
+l10n_it.1_1610;crediti per cauzioni ;161000;1;account.data_account_type_current_assets
+l10n_it.1_1620;personale c/acconti ;162000;1;account.data_account_type_current_assets
+l10n_it.1_1630;crediti v/istituti previdenziali ;163000;1;account.data_account_type_current_assets
+l10n_it.1_1640;debitori diversi ;164000;1;account.data_account_type_current_assets
+__export__.account_account_185_cf83d586;Cassa;180001;0;account.data_account_type_liquidity
+__export__.account_account_186_b585bbb0;Banca;182001;0;account.data_account_type_liquidity
+l10n_it.1_l10n_it_chart_template_generic_liquidity_transfer;Trasferimento di liquidità;183001;1;account.data_account_type_current_assets
+l10n_it.1_1901;ratei attivi ;190100;1;account.data_account_type_current_assets
+l10n_it.1_1902;risconti attivi ;190200;1;account.data_account_type_current_assets
+l10n_it.1_2101;patrimonio netto ;210100;1;account.data_account_type_current_liabilities
+l10n_it.1_2102;utile d'esercizio ;210200;1;account.data_account_type_current_liabilities
+l10n_it.1_2103;perdita d'esercizio ;210300;1;account.data_account_type_current_liabilities
+l10n_it.1_2104;prelevamenti extra gestione ;210400;1;account.data_account_type_current_liabilities
+l10n_it.1_2105;titolare c/ritenute subite ;210500;1;account.data_account_type_current_liabilities
+l10n_it.1_2201;fondo per imposte ;220100;1;account.data_account_type_current_liabilities
+l10n_it.1_2204;fondo responsabilità civile ;220400;1;account.data_account_type_current_liabilities
+l10n_it.1_2205;fondo spese future ;220500;1;account.data_account_type_current_liabilities
+l10n_it.1_2211;fondo manutenzioni programmate ;221100;1;account.data_account_type_current_liabilities
+l10n_it.1_2301;debiti per TFRL ;230100;1;account.data_account_type_current_liabilities
+l10n_it.1_2410;mutui passivi ;241000;1;account.data_account_type_current_liabilities
+l10n_it.1_2411;banche c/sovvenzioni ;241100;1;account.data_account_type_current_liabilities
+l10n_it.1_2420;banche c/c passivi ;242000;1;account.data_account_type_current_liabilities
+l10n_it.1_2421;banche c/RIBA all'incasso ;242100;1;account.data_account_type_current_liabilities
+l10n_it.1_2422;banche c/cambiali all'incasso ;242200;1;account.data_account_type_current_liabilities
+l10n_it.1_2423;banche c/anticipi su fatture ;242300;1;account.data_account_type_current_liabilities
+l10n_it.1_2440;debiti v/altri finanziatori ;244000;1;account.data_account_type_current_liabilities
+l10n_it.1_2501;debiti v/fornitori ;250100;1;account.data_account_type_payable
+l10n_it.1_2503;cambiali passive ;250300;1;account.data_account_type_current_liabilities
+l10n_it.1_2520;fatture da ricevere ;252000;1;account.data_account_type_current_liabilities
+l10n_it.1_2521;debiti da liquidare ;252100;1;account.data_account_type_current_liabilities
+l10n_it.1_2530;clienti c/acconti ;253000;1;account.data_account_type_current_liabilities
+l10n_it.1_2601;IVA n/debito ;260100;1;account.data_account_type_current_liabilities
+l10n_it.1_2602;debiti per ritenute da versare ;260200;1;account.data_account_type_current_liabilities
+l10n_it.1_2605;erario c/IVA ;260500;1;account.data_account_type_current_liabilities
+l10n_it.1_2606;debiti per imposte ;260600;1;account.data_account_type_current_liabilities
+l10n_it.1_2619;debiti per cauzioni ;261900;1;account.data_account_type_current_liabilities
+l10n_it.1_2620;personale c/retribuzioni ;262000;1;account.data_account_type_current_liabilities
+l10n_it.1_2621;personale c/liquidazioni ;262100;1;account.data_account_type_current_liabilities
+l10n_it.1_2622;clienti c/cessione ;262200;1;account.data_account_type_current_liabilities
+l10n_it.1_2630;debiti v/istituti previdenziali ;263000;1;account.data_account_type_current_liabilities
+l10n_it.1_2640;creditori diversi ;264000;1;account.data_account_type_current_liabilities
+l10n_it.1_2701;ratei passivi ;270100;1;account.data_account_type_current_liabilities
+l10n_it.1_2702;risconti passivi ;270200;1;account.data_account_type_current_liabilities
+l10n_it.1_2801;bilancio di apertura ;280100;1;account.data_account_type_current_liabilities
+l10n_it.1_2802;bilancio di chiusura ;280200;1;account.data_account_type_current_liabilities
+l10n_it.1_2810;IVA c/liquidazioni ;281000;1;account.data_account_type_current_liabilities
+l10n_it.1_2811;istituti previdenziali ;281100;1;account.data_account_type_current_liabilities
+l10n_it.1_2901;beni di terzi ;290100;1;account.data_account_type_current_liabilities
+l10n_it.1_2902;depositanti beni ;290200;1;account.data_account_type_current_liabilities
+l10n_it.1_2911;merci da ricevere ;291100;1;account.data_account_type_current_liabilities
+l10n_it.1_2912;fornitori c/impegni ;291200;1;account.data_account_type_current_liabilities
+l10n_it.1_2913;impegni per beni in leasing ;291300;1;account.data_account_type_current_liabilities
+l10n_it.1_2914;creditori c/leasing ;291400;1;account.data_account_type_current_liabilities
+l10n_it.1_2916;clienti c/impegni ;291600;1;account.data_account_type_current_liabilities
+l10n_it.1_2917;merci da consegnare ;291700;1;account.data_account_type_current_liabilities
+l10n_it.1_2921;rischi per effetti scontati ;292100;1;account.data_account_type_current_liabilities
+l10n_it.1_2922;banche c/effetti scontati ;292200;1;account.data_account_type_current_liabilities
+l10n_it.1_2926;rischi per fideiussioni ;292600;1;account.data_account_type_current_liabilities
+l10n_it.1_2927;creditori per fideiussioni ;292700;1;account.data_account_type_current_liabilities
+l10n_it.1_2931;rischi per avalli ;293100;1;account.data_account_type_current_liabilities
+l10n_it.1_2932;creditori per avalli ;293200;1;account.data_account_type_current_liabilities
+__export__.account_account_940_8afc38fa;RICAVI PER DIFFERENZA ALBERGHIERA;30110001;0;account.data_account_type_revenue
+__export__.account_account_941_bdfd4a0a;RICAVI DEGENZA ASL;30110002;0;account.data_account_type_revenue
+__export__.account_account_942_aab8c751;RICAVI DI TELEFONO;30110011;0;account.data_account_type_revenue
+__export__.account_account_943_5c59a0f9;RICAVI PER DEGENZA PRIVATA;30110012;0;account.data_account_type_revenue
+__export__.account_account_944_690c3f7e;RICAVI TICKET,QUOTE(EX PR.SPEC);30110013;0;account.data_account_type_revenue
+__export__.account_account_945_efd44246;RICAVI PER PRESTAZIONI AMBULATORIALI/VISITE;30110014;0;account.data_account_type_revenue
+__export__.account_account_946_a22d009b;RICAVI PER PREST.SPECIAL.PRIVATE;30110015;0;account.data_account_type_revenue
+__export__.account_account_947_98c4bd5f;RICAVI PER COMPENSI MEDICI;30110016;0;account.data_account_type_revenue
+__export__.account_account_948_46abc8f9;RICAVI SPECIALISTICA ASL;30110017;0;account.data_account_type_revenue
+__export__.account_account_949_48ad935d;RICAVI PER ANALISI;30110018;0;account.data_account_type_revenue
+__export__.account_account_950_f2011f32;RIM.FIN.MATERIALE DI CONSUMO;30210001;0;account.data_account_type_revenue
+__export__.account_account_951_8ba486a7;INCREMENTO IMMOB.PER PRODUZ.INTERNA(COSTI INTERNI);30400001;0;account.data_account_type_revenue
+__export__.account_account_952_292a406b;INCREMENTO IMMOB.PER PRODUZ.INTERNA(COSTI ESTERNI);30400002;0;account.data_account_type_revenue
+__export__.account_account_953_e71cf4fb;PRESTAZIONI DI SERVIZI;30501001;0;account.data_account_type_revenue
+__export__.account_account_954_e8baae1c;PROVVIGIONI ATTIVE;30501002;0;account.data_account_type_revenue
+__export__.account_account_955_8e22af64;AFFITTI ATTIVI;30501003;0;account.data_account_type_revenue
+__export__.account_account_956_0ee39d53;VENDITA ROTTAMI E SCARTI;30501004;0;account.data_account_type_revenue
+__export__.account_account_957_6dbf44d9;VENDITA CESPITI;30501005;0;account.data_account_type_revenue
+__export__.account_account_958_3190039d;ADDEBITI SPESE DI TRASPORTO;30501006;0;account.data_account_type_revenue
+__export__.account_account_959_bac58225;DIFFERENZE CAMBIO ATTIVE;30510050;0;account.data_account_type_revenue
+__export__.account_account_960_2af5af18;DIFFERENZE ARROT. ATTIVE;30510051;0;account.data_account_type_revenue
+__export__.account_account_961_810bce11;SCONTI ED ABBUONI ATTIVI;30510052;0;account.data_account_type_revenue
+__export__.account_account_962_9d7a048a;PROVENTI VARI;30510100;0;account.data_account_type_revenue
+__export__.account_account_963_20fee406;SOPRAVVENIENZE ATTIVE;30510101;0;account.data_account_type_revenue
+__export__.account_account_964_f9a00d8d;SOPRAVVENIENZE ATTIVE NON IMPONIBILI;30510150;0;account.data_account_type_revenue
+__export__.account_account_965_5b35c676;BONUS FISCALE RISPARMIO ENERGETICO;30510200;0;account.data_account_type_revenue
+__export__.account_account_966_3f230d67;RIMBORSO SPESA DA CLIENTE;30510250;0;account.data_account_type_revenue
+__export__.account_account_967_57b441ae;RECUPERO IRES ANNI PRECEDENTI;30510280;0;account.data_account_type_revenue
+__export__.account_account_968_c749e7da;CONTRIBUTO FONDO IMPRESA;30510300;0;account.data_account_type_revenue
+__export__.account_account_969_c9d4e9e9;CONTRIBUTO IN CONTO ESERCIZIO BONUS R&S;30510301;0;account.data_account_type_revenue
+__export__.account_account_970_11c7a26d;SOPRAVVENIENZE ATTIVE STRAORDINARIE;30510350;0;account.data_account_type_revenue
+__export__.account_account_971_7a10e808;UTILIZZO F.DO RISCHI SU CREDITI;30510500;0;account.data_account_type_revenue
+__export__.account_account_972_b75c9035;UTILIZZO F.DO RISCHI CLINICI;30510501;0;account.data_account_type_revenue
+__export__.account_account_973_dcc9478f;UTILIZZO F.DO SVALUTAZIONE CREDITI;30510600;0;account.data_account_type_revenue
+__export__.account_account_974_7dfd6dcf;CONTR.IN C/ESERCIZIO;30610001;0;account.data_account_type_revenue
+__export__.account_account_975_57a9e0c7;CONTR.ACQUISIZ.CESP.;30619999;0;account.data_account_type_revenue
+l10n_it.1_3101;merci c/vendite ;310100;1;account.data_account_type_revenue
+l10n_it.1_3103;rimborsi spese di vendita ;310300;1;account.data_account_type_other_income
+l10n_it.1_3110;resi su vendite ;311000;1;account.data_account_type_other_income
+l10n_it.1_3111;ribassi e abbuoni passivi ;311100;1;account.data_account_type_other_income
+l10n_it.1_3112;premi su vendite ;311200;1;account.data_account_type_other_income
+l10n_it.1_3201;fitti attivi ;320100;1;account.data_account_type_other_income
+l10n_it.1_3202;proventi vari ;320200;1;account.data_account_type_other_income
+l10n_it.1_3210;arrotondamenti attivi ;321000;1;account.data_account_type_other_income
+l10n_it.1_3220;plusvalenze ordinarie diverse ;322000;1;account.data_account_type_other_income
+l10n_it.1_3230;sopravvenienze attive ordinarie diverse ;323000;1;account.data_account_type_other_income
+l10n_it.1_3240;insussistenze attive ordinarie diverse ;324000;1;account.data_account_type_other_income
+__export__.account_account_976_50f842c1;ACQUISTO MATERIE PRIME;40610001;0;account.data_account_type_expenses
+__export__.account_account_977_af4493e4;ACQUISTO MATERIALI DI IMBALLAGGIO;40610002;0;account.data_account_type_expenses
+__export__.account_account_978_88711f3b;SPESE ACCESSORIE DI ACQUISTO (TRASPORTI);40610501;0;account.data_account_type_expenses
+__export__.account_account_979_57d5663f;SPESE ACCESSORIE DI ACQUISTO (DAZI);40610502;0;account.data_account_type_expenses
+__export__.account_account_980_93f1cf37;ACQUISTO TITOLI;40615001;0;account.data_account_type_expenses
+__export__.account_account_981_e612ea81;ACQUISTO MATERIALI DI CONSUMO;40620001;0;account.data_account_type_expenses
+__export__.account_account_982_cee4ec06;ACQUISTO MEDICINALI;40620002;0;account.data_account_type_expenses
+__export__.account_account_983_6c567606;ACQUISTO MINUTERIA;40620003;0;account.data_account_type_expenses
+__export__.account_account_984_1c87f1c8;ACQUISTO PROTESI;40620004;0;account.data_account_type_expenses
+__export__.account_account_985_7f2b2de3;ACQUISTO MATERIALI DI MANUTENZIONE;40620005;0;account.data_account_type_expenses
+__export__.account_account_986_26560214;ACQUISTO SANGUE;40620006;0;account.data_account_type_expenses
+__export__.account_account_987_46c0afa4;ACQUISTO OSSIGENO (GAS TERAPEUTICO);40620007;0;account.data_account_type_expenses
+__export__.account_account_988_ae1ec382;ACQUISTO MATERIALI SANITARI;40620008;0;account.data_account_type_expenses
+l10n_it.1_4101;merci c/acquisti ;410100;1;account.data_account_type_expenses
+l10n_it.1_4102;materie di consumo c/acquisti ;410200;1;account.data_account_type_expenses
+l10n_it.1_4105;merci c/apporti ;410500;1;account.data_account_type_expenses
+l10n_it.1_4110;resi su acquisti ;411000;1;account.data_account_type_expenses
+l10n_it.1_4111;ribassi e abbuoni attivi ;411100;1;account.data_account_type_expenses
+l10n_it.1_4112;premi su acquisti ;411200;1;account.data_account_type_expenses
+l10n_it.1_4121;merci c/esistenze iniziali ;412100;1;account.data_account_type_expenses
+l10n_it.1_4122;materie di consumo c/esistenze iniziali ;412200;1;account.data_account_type_expenses
+l10n_it.1_4131;merci c/rimanenze finali ;413100;1;account.data_account_type_expenses
+l10n_it.1_4132;materie di consumo c/rimanenze finali ;413200;1;account.data_account_type_expenses
+l10n_it.1_4201;costi di trasporto ;420100;1;account.data_account_type_expenses
+l10n_it.1_4202;costi per energia ;420200;1;account.data_account_type_expenses
+l10n_it.1_4203;costi di pubblicità ;420300;1;account.data_account_type_expenses
+l10n_it.1_4204;costi di consulenze ;420400;1;account.data_account_type_expenses
+l10n_it.1_4205;costi postali ;420500;1;account.data_account_type_expenses
+l10n_it.1_4206;costi telefonici ;420600;1;account.data_account_type_expenses
+l10n_it.1_4207;costi di assicurazione ;420700;1;account.data_account_type_expenses
+l10n_it.1_4208;costi di vigilanza ;420800;1;account.data_account_type_expenses
+l10n_it.1_4209;costi per i locali ;420900;1;account.data_account_type_expenses
+l10n_it.1_4210;costi di esercizio automezzi ;421000;1;account.data_account_type_expenses
+l10n_it.1_4211;costi di manutenzione e riparazione ;421100;1;account.data_account_type_expenses
+l10n_it.1_4212;provvigioni passive ;421200;1;account.data_account_type_expenses
+l10n_it.1_4213;spese di incasso ;421300;1;account.data_account_type_expenses
+l10n_it.1_4301;fitti passivi ;430100;1;account.data_account_type_expenses
+l10n_it.1_4302;canoni di leasing ;430200;1;account.data_account_type_expenses
+l10n_it.1_4401;salari e stipendi ;440100;1;account.data_account_type_expenses
+l10n_it.1_4402;oneri sociali ;440200;1;account.data_account_type_expenses
+l10n_it.1_4403;TFRL ;440300;1;account.data_account_type_expenses
+l10n_it.1_4404;altri costi per il personale ;440400;1;account.data_account_type_expenses
+l10n_it.1_4501;ammortamento costi di impianto ;450100;1;account.data_account_type_expenses
+l10n_it.1_4506;ammortamento software ;450600;1;account.data_account_type_expenses
+l10n_it.1_4508;ammortamento avviamento ;450800;1;account.data_account_type_expenses
+l10n_it.1_4601;ammortamento fabbricati ;460100;1;account.data_account_type_expenses
+l10n_it.1_4602;ammortamento impianti e macchinari ;460200;1;account.data_account_type_expenses
+l10n_it.1_4604;ammortamento attrezzature commerciali ;460400;1;account.data_account_type_expenses
+l10n_it.1_4605;ammortamento macchine d'ufficio ;460500;1;account.data_account_type_expenses
+l10n_it.1_4606;ammortamento arredamento ;460600;1;account.data_account_type_expenses
+l10n_it.1_4607;ammortamento automezzi ;460700;1;account.data_account_type_expenses
+l10n_it.1_4608;ammortamento imballaggi durevoli ;460800;1;account.data_account_type_expenses
+l10n_it.1_4701;svalutazioni immobilizzazioni immateriali ;470100;1;account.data_account_type_expenses
+l10n_it.1_4702;svalutazioni immobilizzazioni materiali ;470200;1;account.data_account_type_expenses
+l10n_it.1_4706;svalutazione crediti ;470600;1;account.data_account_type_expenses
+l10n_it.1_4814;accantonamento per responsabilità civile ;481400;1;account.data_account_type_expenses
+l10n_it.1_4821;accantonamento per spese future ;482100;1;account.data_account_type_expenses
+l10n_it.1_4823;accantonamento per manutenzioni programmate ;482300;1;account.data_account_type_expenses
+l10n_it.1_4901;oneri fiscali diversi ;490100;1;account.data_account_type_expenses
+l10n_it.1_4903;oneri vari ;490300;1;account.data_account_type_expenses
+l10n_it.1_4905;perdite su crediti ;490500;1;account.data_account_type_expenses
+l10n_it.1_4910;arrotondamenti passivi ;491000;1;account.data_account_type_expenses
+l10n_it.1_4920;minusvalenze ordinarie diverse ;492000;1;account.data_account_type_expenses
+l10n_it.1_4930;sopravvenienze passive ordinarie diverse ;493000;1;account.data_account_type_expenses
+l10n_it.1_4940;insussistenze passive ordinarie diverse ;494000;1;account.data_account_type_expenses
+l10n_it.1_5110;interessi attivi v/clienti ;511000;1;account.data_account_type_other_income
+l10n_it.1_5115;interessi attivi bancari ;511500;1;account.data_account_type_other_income
+l10n_it.1_5116;interessi attivi postali ;511600;1;account.data_account_type_other_income
+l10n_it.1_5140;proventi finanziari diversi ;514000;1;account.data_account_type_other_income
+l10n_it.1_5201;interessi passivi v/fornitori ;520100;1;account.data_account_type_expenses
+l10n_it.1_5202;interessi passivi bancari ;520200;1;account.data_account_type_expenses
+l10n_it.1_5203;sconti passivi bancari ;520300;1;account.data_account_type_expenses
+l10n_it.1_5210;interessi passivi su mutui ;521000;1;account.data_account_type_expenses
+l10n_it.1_5240;oneri finanziari diversi ;524000;1;account.data_account_type_expenses
+__export__.account_account_1034_f41c1014;RICAVI PER PREST.ACCESSOR;7001016;1;account.data_account_type_revenue
+__export__.account_account_1031_c580a037;RICAVI PER INTERVENTI AMB;7001021;1;account.data_account_type_revenue
+__export__.account_account_1033_2f05a8ed;RICAVI OSPEDALITA' PAGANTI;7001600;1;account.data_account_type_revenue
+__export__.account_account_1029_3e6928af;COPIA CARTELLA CLINICA-TA;7002004;1;account.data_account_type_revenue
+__export__.account_account_1032_dc48f4a0;USO ATTREZZATURE E SERVIZI;7002005;0;account.data_account_type_revenue
+__export__.account_account_1030_d8840f91;RIMBORSO SPESE POSTALI;7002019;1;account.data_account_type_revenue
+l10n_it.1_7101;plusvalenze straordinarie ;710100;1;account.data_account_type_other_income
+l10n_it.1_7102;sopravvenienze attive straordinarie ;710200;1;account.data_account_type_other_income
+l10n_it.1_7103;insussistenze attive straordinarie ;710300;1;account.data_account_type_other_income
+l10n_it.1_7201;minusvalenze straordinarie ;720100;1;account.data_account_type_expenses
+l10n_it.1_7202;sopravvenienze passive straordinarie ;720200;1;account.data_account_type_expenses
+l10n_it.1_7203;insussistenze passive straordinarie ;720300;1;account.data_account_type_expenses
+l10n_it.1_7204;imposte esercizi precedenti ;720400;1;account.data_account_type_expenses
+l10n_it.1_8101;imposte dell'esercizio ;810100;1;account.data_account_type_expenses
+l10n_it.1_9101;conto di risultato economico ;910100;1;account.data_account_type_expenses
+l10n_it.1_9102;stato patrimoniale;910200;1;account.data_account_type_expenses
+__export__.account_account_187_4d4e8759;Utili/Perdite non distribuiti;999999;0;account.data_unaffected_earnings

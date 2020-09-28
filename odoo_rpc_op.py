@@ -7,7 +7,7 @@ from odoo_rpc_op import jsonrpc
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Use JSONRPC Operation')
-    parser.add_argument('-c', '--config', dest='config', default="conf/connection.conf",
+    parser.add_argument('-c', '--config', dest='config', default="conf/connection_upload.conf",
                         help='Configuration File that contains connection parameters', required=True)
     parser.add_argument('--model', dest='model', help='Model to import', required=True)
 

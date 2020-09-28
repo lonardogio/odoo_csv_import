@@ -1,0 +1,63 @@
+name;id;code;available;department;department/id;service;type;beds/id
+Sala A;__export__.sync_places_room_1_5ef7f2de;A;1;BLOCCO OPERATORIO;__export__.sync_places_department_1_fcb37738;;Sala Operatoria;0
+Sala B;__export__.sync_places_room_2_2b603bda;B;1;BLOCCO OPERATORIO;__export__.sync_places_department_1_fcb37738;;Sala Operatoria;0
+ST-102;__export__.sync_places_room_3_53607e35;102;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_1_30c17323
+;;;;;;;;__export__.sync_places_bed_2_1a67cb37
+ST-104;__export__.sync_places_room_4_5e99a2cf;104;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_3_26a77e07
+;;;;;;;;__export__.sync_places_bed_4_dfdfbd7d
+ST-106;__export__.sync_places_room_5_f229c5a3;106;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_5_1e9d282c
+;;;;;;;;__export__.sync_places_bed_6_86442d23
+;;;;;;;;__export__.sync_places_bed_7_bee1b801
+ST-108;__export__.sync_places_room_6_dcb6ebf3;108;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_8_45ece1dc
+;;;;;;;;__export__.sync_places_bed_9_601d447f
+;;;;;;;;__export__.sync_places_bed_10_9163cece
+ST-109;__export__.sync_places_room_7_1d526354;109;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_11_e726d25f
+;;;;;;;;__export__.sync_places_bed_12_f3b53e1d
+ST-110;__export__.sync_places_room_8_73df8460;110;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_13_180eb655
+;;;;;;;;__export__.sync_places_bed_14_21ce6546
+ST-107;__export__.sync_places_room_9_71d06db3;107;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_15_ababe0f6
+;;;;;;;;__export__.sync_places_bed_16_1d59214d
+ST-105;__export__.sync_places_room_10_d2e178ac;105;1;MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;;Non definita;__export__.sync_places_bed_17_bf7ab871
+;;;;;;;;__export__.sync_places_bed_18_a6b7eadf
+;;;;;;;;__export__.sync_places_bed_19_4f305f09
+ST-201;__export__.sync_places_room_11_71afd6ab;201;1;MEDICINA PIANO 2;__export__.sync_places_department_4_0595a1ef;;Non definita;__export__.sync_places_bed_20_dc3f27bc
+ST-202;__export__.sync_places_room_12_f6ddb361;202;1;MEDICINA PIANO 2;__export__.sync_places_department_4_0595a1ef;;Non definita;__export__.sync_places_bed_21_e65b045f
+;;;;;;;;__export__.sync_places_bed_22_26475678
+ST-203;__export__.sync_places_room_13_63f18a06;203;1;MEDICINA PIANO 2;__export__.sync_places_department_4_0595a1ef;;Non definita;__export__.sync_places_bed_23_1a5839ed
+ST-204;__export__.sync_places_room_14_006a8986;204;1;MEDICINA PIANO 2;__export__.sync_places_department_4_0595a1ef;;Non definita;__export__.sync_places_bed_24_a5da197d
+;;;;;;;;__export__.sync_places_bed_25_26130288
+ST-206;__export__.sync_places_room_15_c908d7ee;206;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_26_6f223be6
+;;;;;;;;__export__.sync_places_bed_27_5af6ab4a
+;;;;;;;;__export__.sync_places_bed_28_33389bf3
+ST-208;__export__.sync_places_room_16_cb22dc5a;208;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_29_4236df0f
+;;;;;;;;__export__.sync_places_bed_30_5fdbe406
+;;;;;;;;__export__.sync_places_bed_31_cc1b6180
+ST-209;__export__.sync_places_room_17_a775ee40;209;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_32_0a2cf9d6
+;;;;;;;;__export__.sync_places_bed_33_f4b05b25
+ST-210;__export__.sync_places_room_18_47aa6039;210;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_34_21df2c06
+;;;;;;;;__export__.sync_places_bed_35_86a0a688
+ST-207;__export__.sync_places_room_19_cc03ade0;207;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_36_f444cc37
+;;;;;;;;__export__.sync_places_bed_37_d336208c
+ST-205;__export__.sync_places_room_20_d10b2bbd;205;1;CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;;Non definita;__export__.sync_places_bed_38_b4547bd8
+;;;;;;;;__export__.sync_places_bed_39_bde48282
+;;;;;;;;__export__.sync_places_bed_40_f45d79ec
+ST-301;__export__.sync_places_room_21_a6b32cfd;301;1;MEDICINA PIANO 3;__export__.sync_places_department_7_33ced1c0;;Non definita;__export__.sync_places_bed_41_bc953411
+ST-302;__export__.sync_places_room_22_133213b2;302;1;MEDICINA PIANO 3;__export__.sync_places_department_7_33ced1c0;;Non definita;__export__.sync_places_bed_42_f12ba03b
+;;;;;;;;__export__.sync_places_bed_43_11ac7e85
+ST-304;__export__.sync_places_room_23_6d61be71;304;1;MEDICINA PIANO 3;__export__.sync_places_department_7_33ced1c0;;Non definita;__export__.sync_places_bed_44_43aad81c
+;;;;;;;;__export__.sync_places_bed_45_3ab48934
+ST-306;__export__.sync_places_room_24_5ff30106;306;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_46_393168d7
+;;;;;;;;__export__.sync_places_bed_47_35a3a2f0
+;;;;;;;;__export__.sync_places_bed_48_5fbd3d65
+ST-308;__export__.sync_places_room_25_36ab5258;308;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_49_cbcdd424
+;;;;;;;;__export__.sync_places_bed_50_c008512e
+;;;;;;;;__export__.sync_places_bed_51_8e9e83e2
+ST-309;__export__.sync_places_room_26_e3272ac5;309;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_52_258e8f47
+;;;;;;;;__export__.sync_places_bed_53_0ac59d02
+ST-310;__export__.sync_places_room_27_11715a5e;310;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_54_a440220c
+;;;;;;;;__export__.sync_places_bed_55_8d6ced35
+ST-307;__export__.sync_places_room_28_ad1533ae;307;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_56_7772a421
+;;;;;;;;__export__.sync_places_bed_57_778fad84
+ST-305;__export__.sync_places_room_29_a22af01e;305;1;CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;;Non definita;__export__.sync_places_bed_58_f2cd5185
+;;;;;;;;__export__.sync_places_bed_59_f9672b70
+;;;;;;;;__export__.sync_places_bed_60_431e9234

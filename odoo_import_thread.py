@@ -21,7 +21,7 @@ from odoo_csv_tools import import_threaded
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Import data in batch and in parallel')
-    parser.add_argument('-c', '--config', dest='config', default="conf/connection.conf", help='Configuration File that contains connection parameters', required = True)
+    parser.add_argument('-c', '--config', dest='config', default="conf/connection_upload.conf", help='Configuration File that contains connection parameters', required = True)
     parser.add_argument('--file', dest='filename', help='File to import', required = True)
     parser.add_argument('--model', dest='model', help='Model to import', required = True)
     parser.add_argument('--worker', dest='worker', default=1, help='Number of simultaneous connection')

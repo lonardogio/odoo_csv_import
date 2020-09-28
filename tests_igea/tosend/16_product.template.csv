@@ -1,0 +1,19 @@
+id;name;categ_id/id;property_account_income_id/id;property_account_expense_id/id;is_oncologico;sale_ok;purchase_ok;service_type;uom_id/id;uom_po_id/id;service_type_id/id;standard_price
+__export__.product_template_9235_4236557d;Amiodarone ratiopharm 20 cpr 200 mg;sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_compresse;sync_stock.uom_confezione;0;0
+__export__.product_template_14863_c7a6c000;Botox 1 ;sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_fiale;sync_stock.uom_fiale;0;0
+__export__.product_template_9230_646e67df;Calcitriolo 30cps 0,50 mcg;sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_compresse;sync_stock.uom_confezione;0;0
+__export__.product_template_9233_b9aebe81;Dicoflor 60 (20 cps da 300 mg);sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_capsule;sync_stock.uom_capsule;0;0
+__export__.product_template_9227_418a6756;Sodio bicarbonato 1 mEq/ml 844% 10 ml 10;sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_fiale;sync_stock.uom_confezione;0;0
+__export__.product_template_9228_6734b9fa;Urbason 20 mg 3 fl;sync_drug.drug_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_fiale;sync_stock.uom_confezione;0;0
+__export__.product_template_9199_5740a8a1;Acqua Ossigenata 1 LT;sync_drug.material_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_pezzi;sync_stock.uom_pezzi;0;0
+__export__.product_template_9201_81534de7;Filo Vicryl 0;sync_drug.material_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_pezzi;sync_stock.uom_confezione;0;0
+__export__.product_template_9204_38a79f80;Gelitaspon standard 80x50x10 mm;sync_drug.material_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_pezzi;sync_stock.uom_confezione;0;0
+__export__.product_template_9206_51ecfd0c;Guanti sterili s/p mis 7.5;sync_drug.material_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_pezzi;sync_stock.uom_confezione;0;0
+__export__.product_template_9203_cbdb0306;Sonda Foley 2 vie ch 20 f.z.;sync_drug.material_category;0;0;0;1;1;Imposta quantità manualmente nell'ordine;sync_stock.uom_pezzi;sync_stock.uom_pezzi;0;0
+__export__.product_template_4464_733cdfcb;COPIA CARTELLA CLINICA;sync_product.zext_category;__export__.account_account_1029_3e6928af;0;0;1;0;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4466_940717a2;COPIA ESAMI RADIOGRAFICI CON CD ROM;sync_product.zext_category;__export__.account_account_1029_3e6928af;0;0;1;0;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4467_ef56fb94;INTERVENTI AMBULATORIALI;sync_product.zext_category;__export__.account_account_1031_c580a037;0;0;1;0;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4470_9f98333d;RICOVERI PAGANTI;sync_product.zext_category;__export__.account_account_1033_2f05a8ed;0;0;1;1;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4469_edb6df62;SPESE ALBERGHIERE;sync_product.zext_category;__export__.account_account_1034_f41c1014;0;0;1;1;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4465_a7373a9b;SPESE DI SPEDIZIONE;sync_product.zext_category;__export__.account_account_1030_d8840f91;0;0;1;1;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
+__export__.product_template_4468_915f2baa;USO ATTREZZATURE E SERVIZI;sync_product.zext_category;__export__.account_account_1032_dc48f4a0;0;0;1;1;Imposta quantità manualmente nell'ordine;uom.product_uom_unit;uom.product_uom_unit;0;0
