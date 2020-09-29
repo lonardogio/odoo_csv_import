@@ -1,0 +1,7 @@
+﻿"id";"name";"company_id/id"
+"sync_product.diagnostica_per_le_immagini";"Diagnostica per le immagini";"base.main_company"
+"sync_product.laboratorio";"Laboratorio";"base.main_company"
+"sync_product.medicina_nucleare";"Medicina Nucleare";"base.main_company"
+"sync_product.visite";"Visite";"base.main_company"
+"sync_product.altro";"Altro";"base.main_company"
+"__export__.sync_product_service_type_6_93742503";"Pacc";"base.main_company"

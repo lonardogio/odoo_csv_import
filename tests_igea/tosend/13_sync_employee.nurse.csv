@@ -1,34 +1,34 @@
-id;name;sinid;fiscalcode;cognome;caposala;work_email;department_id/id;strumentista
-__export__.sync_employee_nurse_34_c2f7d8e5;MARIA GRAZIA ANDREANO;;NDRMGR64L42D643G;ANDREANO;0;marandrea;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_35_669b4601;FRANCESCA BONFITTO;;BNFFNC90B48H926M;BONFITTO;0;frabonfit;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_36_3bbc6473;CONSIGLIA BRUNO;;BRNCSG73H43D643E;BRUNO;0;conbruno;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_37_e8b15a8d;OLIMPIA CARRETTA;;CRRLMP88D66D643C;CARRETTA;0;olicarret;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_38_15a8e4ed;MATTIA CATANEO;;CTNMTT69T60H926X;CATANEO;0;matcatane;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_39_9f4627f9;MICHELINA CERRO;;CRRMHL72A41E885I;CERRO;0;miccerro;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_40_ddebd553;ANTONIA MARILVA CUNA;;CNUNNM63E71L074L;CUNA;0;antcuna;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_41_741213ac;ANNA D'ASSISTI;;DSSNNA64L66E716V;D'ASSISTI;0;anndassi;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_42_664d79d1;CARMELA DE CILLIS;;DCLCML83P50D643A;DE CILLIS;0;cardecil;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_43_228c719b;ALESSIA DI BIASE;;DBSLSS93T68D643X;DI BIASE;0;aledibia;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_44_4c9c30b4;IOLANDA FIGURELLA;;FGRLND67D56D643J;FIGURELLA;0;iolfigure;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_45_f8dc6ba4;RITA FINELLI;;FNLRTI72S57D643V;FINELLI;0;ritfinell;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_46_da68b6de;NICOLA PIO GIULIANI;;GLNNLP83E30H926C;GIULIANI;0;nicgiulia;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_47_a18e6cea;ARCANGELA GRAVINA;;GRVRNG80S45H985A;GRAVINA;0;arcgravin;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_48_6edf50c4;MICHELE LAPENNA;;LPNMHL76P05D643R;LAPENNA;0;miclapenn;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_49_b8904638;ROSA LAURIOLA;;LRLRSO60C70E885K;LAURIOLA;0;roslaurio;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_50_8eed94a2;CATERINA LIOCE;;LCICRN70S65D643V;LIOCE;0;catlioce;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_51_9bed9206;ANTONELLA MADDALENA;;MDDNNL79A56H926I;MADDALENA;0;antmadda;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_52_5fd75df5;GRAZIA MARTINO;;MRTGRZ87C42H985V;MARTINO;0;gramarti;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_53_7cd6ac46;CINZIA MASSARIELLO;;MSSCNZ61H54D643P;MASSARIELLO;1;cinmassa;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_54_180a0f81;VALERIA MIUCCI;;MCCVLR81P49H926E;MIUCCI;0;valmiucc;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_55_170969bb;MARIANGELA MUSCETTOLA;;MSCMNG85L59H926W;MUSCETTOLA;0;marmusce;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_56_558a062d;FRANCESCO ANTONIO PAGONE;;PGNFNC90S23D643X;PAGONE;0;frapagon;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_57_51b74f4e;MARCO PAGONE;;PGNMRC93P20D643G;PAGONE;0;marpagon;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_58_f2461dcb;MARIAPIA ANASTASIA REGA;;RGEMPN89C44D643W;REGA;0;marrega;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_59_3c040b2d;DANIELA ROSA RICCI;;RCCDLR91A63H926Q;RICCI;0;danricci;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_60_c9acf2f8;VALERIA ROSANIA;;RSNVLR78H67B157U;ROSANIA;0;valrosan;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_61_48f1fab3;ANNUNZIATA RUGGIERO;;RGGNNZ93C71E716E;RUGGIERO;0;annruggi;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_62_48d2e6c9;ROSA RUSSI;;RSSRSO73B62I158O;RUSSI;0;rosrussi;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_63_9d6200ec;MARIA ASSUNTA SARNI;;SRNMSS65E65D643M;SARNI;0;marsarni;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_64_c9cc1503;GIORGIA CAGGIANELLO;;CGGGRG95E44D643T;CAGGIANELLO;0;giocaggi;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_65_7da795f8;ESTER LA PORTA;;LPRSTR92E47H926S;LA PORTA;0;estlapor;__export__.hr_department_3_c9b03ead;1
-__export__.sync_employee_nurse_66_8f4a846e;ANDREA COMPAGNI;;CMPNDR92P10D643K;COMPAGNI;0;andcompa;__export__.hr_department_3_c9b03ead;1
+"id";"name";"nome";"cognome";"sinid";"fiscalcode";"work_email";"caposala";"strumentista"
+"__export__.sync_employee_nurse_34_9b198540";"MARIA GRAZIA ANDREANO";"MARIA GRAZIA";"ANDREANO";;"NDRMGR64L42D643G";"marandrea";"False";"True"
+"__export__.sync_employee_nurse_35_26b41c2f";"FRANCESCA BONFITTO";"FRANCESCA";"BONFITTO";;"BNFFNC90B48H926M";"frabonfit";"False";"True"
+"__export__.sync_employee_nurse_36_2b849f34";"CONSIGLIA BRUNO";"CONSIGLIA";"BRUNO";;"BRNCSG73H43D643E";"conbruno";"False";"True"
+"__export__.sync_employee_nurse_37_7658b24b";"OLIMPIA CARRETTA";"OLIMPIA";"CARRETTA";;"CRRLMP88D66D643C";"olicarret";"False";"True"
+"__export__.sync_employee_nurse_38_120dddc2";"MATTIA CATANEO";"MATTIA";"CATANEO";;"CTNMTT69T60H926X";"matcatane";"False";"True"
+"__export__.sync_employee_nurse_39_76f8480c";"MICHELINA CERRO";"MICHELINA";"CERRO";;"CRRMHL72A41E885I";"miccerro";"False";"True"
+"__export__.sync_employee_nurse_40_0e5d39ee";"ANTONIA MARILVA CUNA";"ANTONIA MARILVA";"CUNA";;"CNUNNM63E71L074L";"antcuna";"False";"True"
+"__export__.sync_employee_nurse_41_d1955eee";"ANNA D'ASSISTI";"ANNA";"D'ASSISTI";;"DSSNNA64L66E716V";"anndassi";"False";"True"
+"__export__.sync_employee_nurse_42_506a88e6";"CARMELA DE CILLIS";"CARMELA";"DE CILLIS";;"DCLCML83P50D643A";"cardecil";"False";"True"
+"__export__.sync_employee_nurse_43_7c0d74a8";"ALESSIA DI BIASE";"ALESSIA";"DI BIASE";;"DBSLSS93T68D643X";"aledibia";"False";"True"
+"__export__.sync_employee_nurse_44_f7f6e8b1";"IOLANDA FIGURELLA";"IOLANDA";"FIGURELLA";;"FGRLND67D56D643J";"iolfigure";"False";"True"
+"__export__.sync_employee_nurse_45_1b0a2479";"RITA FINELLI";"RITA";"FINELLI";;"FNLRTI72S57D643V";"ritfinell";"False";"True"
+"__export__.sync_employee_nurse_46_eb266dcd";"NICOLA PIO GIULIANI";"NICOLA PIO";"GIULIANI";;"GLNNLP83E30H926C";"nicgiulia";"False";"True"
+"__export__.sync_employee_nurse_47_be9d73bb";"ARCANGELA GRAVINA";"ARCANGELA";"GRAVINA";;"GRVRNG80S45H985A";"arcgravin";"False";"True"
+"__export__.sync_employee_nurse_48_04b9e0aa";"MICHELE LAPENNA";"MICHELE";"LAPENNA";;"LPNMHL76P05D643R";"miclapenn";"False";"True"
+"__export__.sync_employee_nurse_49_e6ae60e5";"ROSA LAURIOLA";"ROSA";"LAURIOLA";;"LRLRSO60C70E885K";"roslaurio";"False";"True"
+"__export__.sync_employee_nurse_50_50c0d809";"CATERINA LIOCE";"CATERINA";"LIOCE";;"LCICRN70S65D643V";"catlioce";"False";"True"
+"__export__.sync_employee_nurse_51_c59c980c";"ANTONELLA MADDALENA";"ANTONELLA";"MADDALENA";;"MDDNNL79A56H926I";"antmadda";"False";"True"
+"__export__.sync_employee_nurse_52_4f1c63ff";"GRAZIA MARTINO";"GRAZIA";"MARTINO";;"MRTGRZ87C42H985V";"gramarti";"False";"True"
+"__export__.sync_employee_nurse_53_98f9de9a";"CINZIA MASSARIELLO";"CINZIA";"MASSARIELLO";;"MSSCNZ61H54D643P";"cinmassa";"True";"True"
+"__export__.sync_employee_nurse_54_353241c5";"VALERIA MIUCCI";"VALERIA";"MIUCCI";;"MCCVLR81P49H926E";"valmiucc";"False";"True"
+"__export__.sync_employee_nurse_55_e1d4d549";"MARIANGELA MUSCETTOLA";"MARIANGELA";"MUSCETTOLA";;"MSCMNG85L59H926W";"marmusce";"False";"True"
+"__export__.sync_employee_nurse_56_87213da3";"FRANCESCO ANTONIO PAGONE";"FRANCESCO ANTONIO";"PAGONE";;"PGNFNC90S23D643X";"frapagon";"False";"True"
+"__export__.sync_employee_nurse_57_5b4482da";"MARCO PAGONE";"MARCO";"PAGONE";;"PGNMRC93P20D643G";"marpagon";"False";"True"
+"__export__.sync_employee_nurse_58_1abfe3f0";"MARIAPIA ANASTASIA REGA";"MARIAPIA ANASTASIA";"REGA";;"RGEMPN89C44D643W";"marrega";"False";"True"
+"__export__.sync_employee_nurse_59_afced0e2";"DANIELA ROSA RICCI";"DANIELA ROSA";"RICCI";;"RCCDLR91A63H926Q";"danricci";"False";"True"
+"__export__.sync_employee_nurse_60_bd8f6c1b";"VALERIA ROSANIA";"VALERIA";"ROSANIA";;"RSNVLR78H67B157U";"valrosan";"False";"True"
+"__export__.sync_employee_nurse_61_f2531513";"ANNUNZIATA RUGGIERO";"ANNUNZIATA";"RUGGIERO";;"RGGNNZ93C71E716E";"annruggi";"False";"True"
+"__export__.sync_employee_nurse_62_8f9cacc0";"ROSA RUSSI";"ROSA";"RUSSI";;"RSSRSO73B62I158O";"rosrussi";"False";"True"
+"__export__.sync_employee_nurse_63_91a897a6";"MARIA ASSUNTA SARNI";"MARIA ASSUNTA";"SARNI";;"SRNMSS65E65D643M";"marsarni";"False";"True"
+"__export__.sync_employee_nurse_64_79c7d0be";"GIORGIA CAGGIANELLO";"GIORGIA";"CAGGIANELLO";;"CGGGRG95E44D643T";"giocaggi";"False";"True"
+"__export__.sync_employee_nurse_65_d294b35b";"ESTER LA PORTA";"ESTER";"LA PORTA";;"LPRSTR92E47H926S";"estlapor";"False";"True"
+"__export__.sync_employee_nurse_66_3f6f6534";"ANDREA COMPAGNI";"ANDREA";"COMPAGNI";;"CMPNDR92P10D643K";"andcompa";"False";"True"

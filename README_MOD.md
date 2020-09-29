@@ -27,3 +27,10 @@ protocol = jsonrpcs
 port = 443
 uid = 16`
 Nel caso di instanza locale usare: `hostname = localhost`
+
+##Struttura CVS
+Le chiavi esterne se sono assenti non devono essere ne false ne 0, ma ";;", 
+ovvero lasciare il vuoto tra i due punto e virgola.
+
+Se si hanno errori di ambiguità tipicamente si può eliminare il campo
+del tipo `campo_in_questione` e lasciare `campo_in_questione/id`

@@ -1,31 +1,8 @@
-name;id;code;available;tipo_ricovero/id;tipo_ricovero;uo_ids/id;location/id;location;type/id;type;rooms/id
-BLOCCO OPERATORIO;__export__.sync_places_department_1_fcb37738;BO;1;0;;0;__export__.sync_places_location_5_989171c7;PIANO SOTTOSTRADA - EDIFICIO PRINCIPALE - SOTTOSTRADA;sync_tipologiche_puglia.id_tipologica_puglia_192;Blocco_Operatorio;__export__.sync_places_room_1_5ef7f2de
-;;;;;;;;;;;__export__.sync_places_room_2_2b603bda
-PREOSPEDALIZZAZIONE;__export__.sync_places_department_2_7c71f7c2;PREOSP;1;0;;0;__export__.sync_places_location_4_df83d4d6;PIANO TERRA - EDIFICIO PRINCIPALE - TERRA;sync_tipologiche_puglia.id_tipologica_puglia_191;Preospedalizzazione;0
-MEDICINA PIANO 1;__export__.sync_places_department_3_87eef609;MED01;1;sync_tipologiche_puglia.id_tipologica_puglia_41;Ordinario;__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d;__export__.sync_places_location_1_c0d9888a;PIANO 1 - EDIFICIO PRINCIPALE - PRIMO;sync_tipologiche_puglia.id_tipologica_puglia_190;Degenza;__export__.sync_places_room_3_53607e35
-;;;;;;;;;;;__export__.sync_places_room_4_5e99a2cf
-;;;;;;;;;;;__export__.sync_places_room_5_f229c5a3
-;;;;;;;;;;;__export__.sync_places_room_6_dcb6ebf3
-;;;;;;;;;;;__export__.sync_places_room_7_1d526354
-;;;;;;;;;;;__export__.sync_places_room_8_73df8460
-;;;;;;;;;;;__export__.sync_places_room_9_71d06db3
-;;;;;;;;;;;__export__.sync_places_room_10_d2e178ac
-MEDICINA PIANO 2;__export__.sync_places_department_4_0595a1ef;MED02;1;sync_tipologiche_puglia.id_tipologica_puglia_41;Ordinario;__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d;__export__.sync_places_location_2_75214835;PIANO 2 - EDIFICIO PRINCIPALE - SECONDO;sync_tipologiche_puglia.id_tipologica_puglia_190;Degenza;__export__.sync_places_room_11_71afd6ab
-;;;;;;;;;;;__export__.sync_places_room_12_f6ddb361
-;;;;;;;;;;;__export__.sync_places_room_13_63f18a06
-;;;;;;;;;;;__export__.sync_places_room_14_006a8986
-CHIRURGIA PIANO 2;__export__.sync_places_department_5_05892083;CHI02;1;sync_tipologiche_puglia.id_tipologica_puglia_41;Ordinario;__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d;__export__.sync_places_location_2_75214835;PIANO 2 - EDIFICIO PRINCIPALE - SECONDO;sync_tipologiche_puglia.id_tipologica_puglia_190;Degenza;__export__.sync_places_room_15_c908d7ee
-;;;;;;;;;;;__export__.sync_places_room_16_cb22dc5a
-;;;;;;;;;;;__export__.sync_places_room_17_a775ee40
-;;;;;;;;;;;__export__.sync_places_room_18_47aa6039
-;;;;;;;;;;;__export__.sync_places_room_19_cc03ade0
-;;;;;;;;;;;__export__.sync_places_room_20_d10b2bbd
-CHIRURGIA PIANO 3;__export__.sync_places_department_6_fe655dda;CHI03;1;sync_tipologiche_puglia.id_tipologica_puglia_41;Ordinario;__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d;__export__.sync_places_location_3_bbfa165e;PIANO 3 - EDIFICIO PRINCIPALE - TERZO;sync_tipologiche_puglia.id_tipologica_puglia_190;Degenza;__export__.sync_places_room_24_5ff30106
-;;;;;;;;;;;__export__.sync_places_room_25_36ab5258
-;;;;;;;;;;;__export__.sync_places_room_26_e3272ac5
-;;;;;;;;;;;__export__.sync_places_room_27_11715a5e
-;;;;;;;;;;;__export__.sync_places_room_28_ad1533ae
-;;;;;;;;;;;__export__.sync_places_room_29_a22af01e
-MEDICINA PIANO 3;__export__.sync_places_department_7_33ced1c0;MED03;1;sync_tipologiche_puglia.id_tipologica_puglia_41;Ordinario;__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d;__export__.sync_places_location_3_bbfa165e;PIANO 3 - EDIFICIO PRINCIPALE - TERZO;sync_tipologiche_puglia.id_tipologica_puglia_190;Degenza;__export__.sync_places_room_21_a6b32cfd
-;;;;;;;;;;;__export__.sync_places_room_22_133213b2
-;;;;;;;;;;;__export__.sync_places_room_23_6d61be71
+"name";"id";"code";"available";"tipo_ricovero/id";"uo_ids/id";"location";"type"
+"BLOCCO OPERATORIO";"__export__.sync_places_department_1_fcb37738";"BO";1;;;"PIANO SOTTOSTRADA - EDIFICIO PRINCIPALE - SOTTOSTRADA";"Blocco_Operatorio"
+"PREOSPEDALIZZAZIONE";"__export__.sync_places_department_2_7c71f7c2";"PREOSP";1;;;"PIANO TERRA - EDIFICIO PRINCIPALE - TERRA";"Preospedalizzazione"
+"MEDICINA PIANO 1";"__export__.sync_places_department_3_87eef609";"MED01";1;"sync_tipologiche_puglia.id_tipologica_puglia_41";"__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d";"PIANO 1 - EDIFICIO PRINCIPALE - PRIMO";"Degenza"
+"MEDICINA PIANO 2";"__export__.sync_places_department_4_0595a1ef";"MED02";1;"sync_tipologiche_puglia.id_tipologica_puglia_41";"__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d";"PIANO 2 - EDIFICIO PRINCIPALE - SECONDO";"Degenza"
+"CHIRURGIA PIANO 2";"__export__.sync_places_department_5_05892083";"CHI02";1;"sync_tipologiche_puglia.id_tipologica_puglia_41";"__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d";"PIANO 2 - EDIFICIO PRINCIPALE - SECONDO";"Degenza"
+"CHIRURGIA PIANO 3";"__export__.sync_places_department_6_fe655dda";"CHI03";1;"sync_tipologiche_puglia.id_tipologica_puglia_41";"__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d";"PIANO 3 - EDIFICIO PRINCIPALE - TERZO";"Degenza"
+"MEDICINA PIANO 3";"__export__.sync_places_department_7_33ced1c0";"MED03";1;"sync_tipologiche_puglia.id_tipologica_puglia_41";"__export__.sync_structure_organisational_unit_30_7e6a5d22,__export__.sync_structure_organisational_unit_31_a2da985e,__export__.sync_structure_organisational_unit_32_44609be9,__export__.sync_structure_organisational_unit_33_f259265d";"PIANO 3 - EDIFICIO PRINCIPALE - TERZO";"Degenza"

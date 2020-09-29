@@ -1,30 +1,30 @@
-id;codice;codice_regionale;descrizione;department_id/id;department_id;immagini;uo_type;type
-__export__.sync_structure_organisational_unit_30_7e6a5d22;0901;160102000901;CHIRURGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Reparto
-__export__.sync_structure_organisational_unit_31_a2da985e;6401;160102002601;ONCOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Reparto
-__export__.sync_structure_organisational_unit_32_44609be9;2601;160102002601;MEDICINA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Reparto
-__export__.sync_structure_organisational_unit_33_f259265d;4301;160102000901;UROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Reparto
-__export__.sync_structure_organisational_unit_34_d6ab977a;1410;;ANGIOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_35_9dbeb078;1480;;CARDIOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_36_e7bebe80;1460;;CHIRURGIA GENERALE;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_37_6d50e43d;D203;0901;DAY SERVICE CHIRURGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_38_7fb11e0a;D210;;DAY SERVICE NEUROCHIRURGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_39_59d0c13f;D211;;DAY SERVICE NEUROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_40_9f2ed456;D212;;DAY SERVICE OCULISTICA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_41_18e724dc;D214;;DAY SERVICE ORTOPEDIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_42_c6685766;D219;0901;DAY SERVICE UROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_43_a3aebfa5;D230;2601;DAY SERVICE MEDICINA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_44_5508f210;1475;;GASTROENTEROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_45_32d15e35;1222;;ECOGRAFIA;__export__.hr_department_3_c9b03ead;CLINICA;0;Diagnostica per le Immagini;Ambulatorio
-__export__.sync_structure_organisational_unit_46_9e2393d9;1435;;GINECOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_47_547c69a1;1230;;LABORATORIO ANALISI;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_48_ba3c5102;1450;;MEDICINA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_49_2097743a;1470;;NEUROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_50_c480eae3;1420;;ORTOPEDIA E TRAUMATOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_51_0e822692;1434;;OSTETRICIA E GINECOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_52_363c3ba4;1455;;OTORINOLARINGOIATRIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_53_8e80f2a3;999;;PAC;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_54_c0da4a63;1405;;PNEUMOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_55_74db7f23;1220;;RADIOLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;Diagnostica per le Immagini;Ambulatorio
-__export__.sync_structure_organisational_unit_56_402d3fce;1223;;TAC;__export__.hr_department_3_c9b03ead;CLINICA;0;Diagnostica per le Immagini;Ambulatorio
-__export__.sync_structure_organisational_unit_57_153ad4f5;1495;;UROLOGIA;__export__.hr_department_3_c9b03ead;CLINICA;0;0;Ambulatorio
-__export__.sync_structure_organisational_unit_58_559a120a;1000;;ANESTESIA E RIANIMAZIONE;__export__.hr_department_3_c9b03ead;CLINICA;0;Anestesia;Ambulatorio
+"id";"codice";"codice_regionale";"descrizione";"department_id/id";"immagini";"uo_type";"type"
+"__export__.sync_structure_organisational_unit_30_7e6a5d22";901;160102000901;"CHIRURGIA";"__export__.hr_department_3_c9b03ead";0;;"Reparto"
+"__export__.sync_structure_organisational_unit_31_a2da985e";6401;160102002601;"ONCOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Reparto"
+"__export__.sync_structure_organisational_unit_32_44609be9";2601;160102002601;"MEDICINA";"__export__.hr_department_3_c9b03ead";0;;"Reparto"
+"__export__.sync_structure_organisational_unit_33_f259265d";4301;160102000901;"UROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Reparto"
+"__export__.sync_structure_organisational_unit_34_d6ab977a";1410;;"ANGIOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_35_9dbeb078";1480;;"CARDIOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_36_e7bebe80";1460;;"CHIRURGIA GENERALE";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_37_6d50e43d";"D203";901;"DAY SERVICE CHIRURGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_38_7fb11e0a";"D210";;"DAY SERVICE NEUROCHIRURGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_39_59d0c13f";"D211";;"DAY SERVICE NEUROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_40_9f2ed456";"D212";;"DAY SERVICE OCULISTICA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_41_18e724dc";"D214";;"DAY SERVICE ORTOPEDIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_42_c6685766";"D219";901;"DAY SERVICE UROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_43_a3aebfa5";"D230";2601;"DAY SERVICE MEDICINA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_44_5508f210";1475;;"GASTROENTEROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_45_32d15e35";1222;;"ECOGRAFIA";"__export__.hr_department_3_c9b03ead";0;"Diagnostica per le Immagini";"Ambulatorio"
+"__export__.sync_structure_organisational_unit_46_9e2393d9";1435;;"GINECOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_47_547c69a1";1230;;"LABORATORIO ANALISI";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_48_ba3c5102";1450;;"MEDICINA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_49_2097743a";1470;;"NEUROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_50_c480eae3";1420;;"ORTOPEDIA E TRAUMATOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_51_0e822692";1434;;"OSTETRICIA E GINECOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_52_363c3ba4";1455;;"OTORINOLARINGOIATRIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_53_8e80f2a3";999;;"PAC";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_54_c0da4a63";1405;;"PNEUMOLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_55_74db7f23";1220;;"RADIOLOGIA";"__export__.hr_department_3_c9b03ead";0;"Diagnostica per le Immagini";"Ambulatorio"
+"__export__.sync_structure_organisational_unit_56_402d3fce";1223;;"TAC";"__export__.hr_department_3_c9b03ead";0;"Diagnostica per le Immagini";"Ambulatorio"
+"__export__.sync_structure_organisational_unit_57_153ad4f5";1495;;"UROLOGIA";"__export__.hr_department_3_c9b03ead";0;;"Ambulatorio"
+"__export__.sync_structure_organisational_unit_58_559a120a";1000;;"ANESTESIA E RIANIMAZIONE";"__export__.hr_department_3_c9b03ead";0;"Anestesia";"Ambulatorio"
